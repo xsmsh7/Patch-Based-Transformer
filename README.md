@@ -39,19 +39,16 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
     <td>Motion Deblurring</td>
     <td align="center"><a href="Motion_Deblurring/README.md#training">Link</a></td>
     <td align="center"><a href="Motion_Deblurring/README.md#evaluation">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/drive/folders/1qla3HEOuGapv1hqBwXEMi2USFPB2qmx_?usp=sharing">Download</a></td>
   </tr>
   <tr>
     <td>Gaussian Denoising</td>
     <td align="center"><a href="Denoising/README.md#training">Link</a></td>
     <td align="center"><a href="Denoising/README.md#evaluation">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/drive/folders/1rEAHUBkA9uCe9Q0AzI5zkYxePSgxYDEG?usp=sharing">Download</a></td>
   </tr>
   <tr>
     <td>Real Denoising</td>
     <td align="center"><a href="Denoising/README.md#training-1">Link</a></td>
     <td align="center"><a href="Denoising/README.md#evaluation-1">Link</a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1CsEiN6R0hlmEoSTyy48nnhfF06P5aRR7/view?usp=sharing">Download</a></td>
   </tr>
 </table>
 
