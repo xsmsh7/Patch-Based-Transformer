@@ -4,6 +4,7 @@
 
 ## Network Architecture
 
+I change the attention module of network architecture
 <img src = "https://i.imgur.com/ulLoEig.png"> 
 
 ## Installation
@@ -53,8 +54,7 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 </table>
 
 ## Results
-Experiments are performed for different image processing tasks including, image deraining, single-image motion deblurring, defocus deblurring (both on single image and dual pixel data), and image denoising (both on Gaussian and real data). 
-
+根據restormer
 
 <details>
 <summary><strong>Single-Image Motion Deblurring</strong> (click to expand) </summary>
