@@ -4,7 +4,8 @@
 
 ## Network Architecture
 
-I change the attention module of network architecture
+I change the attention module of network architecture Patch-Based-Transformer/basicsr/models/archs
+/restormer_arch.py
 <img src = "https://i.imgur.com/ulLoEig.png"> 
 
 ## Installation
