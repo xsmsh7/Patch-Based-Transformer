@@ -7,7 +7,7 @@
 I change the attention module of network architecture Patch-Based-Transformer/basicsr/models/archs
 /restormer_arch.py
 <img src = "https://i.imgur.com/ulLoEig.png"> 
-![My Image](images/attention.png)
+![My Image](images/patch_attention.png)
 
 ## Installation
 
