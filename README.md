@@ -60,37 +60,7 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 ## Results
 根據restormer
 
-<details>
-<summary><strong>Single-Image Motion Deblurring</strong> (click to expand) </summary>
-
-<p align="center"><img src = "https://i.imgur.com/htagDSl.png" width="400"></p>
-</details>
-
-
-
-<details>
-<summary><strong>Gaussian Image Denoising</strong> (click to expand) </summary>
-
-Top super-row: learning a single model to handle various noise levels.
-Bottom super-row: training a separate model for each noise level.
-
-<table>
-  <tr>
-    <td> <img src = "https://i.imgur.com/4vzV8Qy.png" width="400"> </td>
-    <td> <img src = "https://i.imgur.com/Sx986Xs.png" width="500"> </td>
-  </tr>
-  <tr>
-    <td><p align="center"><b>Grayscale</b></p></td>
-    <td><p align="center"><b>Color</b></p></td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><strong>Real Image Denoising</strong> (click to expand) </summary>
-
-<img src = "https://i.imgur.com/6v5PRxj.png">
-</details>
+![My thesis](images/patch_attention.png)
 
 ## Citation
 If you use Restormer, please consider citing:
