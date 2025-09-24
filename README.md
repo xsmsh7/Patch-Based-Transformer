@@ -60,7 +60,7 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 ## Results
 根據restormer
 
-![My thesis](images/patch_attention.png)
+![My thesis](thesis.pdf)
 
 ## Citation
 If you use Restormer, please consider citing:
