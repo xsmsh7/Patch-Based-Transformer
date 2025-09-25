@@ -58,9 +58,32 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 </table>
 
 ## Results
-根據restormer
+### sidd dataset
+| Attention Type | PSNR  | SSIM  |
+|----------------|-------|-------|
+| Restormer      | 39.62 | 0.912 |
+| Patch-based    | 39.74 | 0.913 |
+| SwinIR         | 39.48 | 0.909 |
+| None attention(CNN) | 39.41 | 0.909 |
 
-[My thesis](thesis.pdf)
+My experiant in detailed [My thesis](thesis.pdf) show that channel-attention of restormer is good at smooth image, but patch-attention is good at textured image.
+
+
+
+### motion deblurring dataset
+| Attention Type | PSNR  | SSIM  |
+|----------------|-------|-------|
+| Restormer      | 28.96 | 0.877 |
+| Patch-based    | 28.20 | 0.856 |
+| None attention(CNN) | 29.30 | 0.881 |
+| Restormer-encoder  Patch-based-decoder   | 29.95 | 0.897 |
+
+Motion blurring noise have structured spatial degeneration. performance no attentention(CNN) > channel > patch-attention. patch be impacted by this kind of noise, but do pre porcess like Restormer first and do patch-attention is best.
+
+
+
+Some value and evidence at [My thesis](thesis.pdf)
+
 
 ## Citation
 If you use Restormer, please consider citing:
