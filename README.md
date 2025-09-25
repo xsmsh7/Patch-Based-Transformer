@@ -66,7 +66,7 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 | SwinIR         | 39.48 | 0.909 |
 | None attention(CNN) | 39.41 | 0.909 |
 
-My experiant in detailed [My thesis](thesis.pdf) show that channel-attention of restormer is good at smooth image, but patch-attention is good at textured image.
+My Patch-based increase 0.1dB than Restormer. Patch-attention is good at textured image, as shown in [My thesis](thesis.pdf).
 
 
 
