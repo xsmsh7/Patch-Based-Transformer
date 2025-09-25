@@ -66,7 +66,7 @@ Training and Testing instructions for Deraining, Motion Deblurring, Defocus Debl
 | SwinIR         | 39.48 | 0.909 |
 | None attention(CNN) | 39.41 | 0.909 |
 
-My Patch-based increase 0.1dB than Restormer. Patch-attention is good at textured image, as shown in [My thesis](thesis.pdf).
+My Patch-based increase 0.1dB than Restormer. Patch-attention is good at textured image and Restormer is good at soomth image, as shown in [My thesis](thesis.pdf).
 
 
 
