@@ -78,7 +78,7 @@ My Patch-based increase 0.1dB than Restormer. Patch-attention is good at texture
 | None attention(CNN) | 29.30 | 0.881 |
 | Restormer-encoder  Patch-based-decoder   | 29.95 | 0.897 |
 
-Motion blurring noise have structured spatial degeneration, can't cause attention wrong. performance no attentention(CNN) > channel > patch-attention. patch be impacted by this kind of noise, but do pre porcess like Restormer first and do patch-attention is best.
+Motion blurring noise have structured spatial degeneration, noise can't cause attention wrong[Denoising Self-attentive Sequential Recommendation]. Performance result show no attentention(CNN) > channel > patch-attention. Patch be impacted by this kind of noise, but do pre porcess like Restormer first and then do patch-attention is best.
 
 
 
